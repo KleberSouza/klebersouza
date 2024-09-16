@@ -41,11 +41,6 @@ Você pode me encontrar nas seguintes plataformas:
 
 ---
 
-### 📈 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=klebersouza&show_icons=true&theme=radical)
-
----
-
 ### 🎓 Educação
 - Bacharel em Sistemas de Informação
 - Mestre em Informática
